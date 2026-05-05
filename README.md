@@ -38,14 +38,6 @@ Each response is scored on:
 - `analysis.csv` → Detailed scoring per response  
 - `summary.json` → Aggregated metrics  
 
-Example `summary.json`:
-```json
-{
-  "avg_accuracy": 0.66,
-  "avg_relevance": 1.0,
-  "avg_clarity": 0.66
-}
-
 ## How to Run
 1. Install dependencies
 bash
