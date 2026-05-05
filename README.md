@@ -45,7 +45,8 @@ Example `summary.json`:
   "avg_relevance": 1.0,
   "avg_clarity": 0.66
 }
-How to Run
+
+## How to Run
 1. Install dependencies
 bash
 pip install -r requirements.txt
@@ -58,7 +59,8 @@ cd src
 python generate.py
 python evaluate.py
 python analyze.py
-Future Improvements
+
+## Future Improvements
 Multi-response ranking (best vs worst)
 
 Human vs automated evaluation comparison
