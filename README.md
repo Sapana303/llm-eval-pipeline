@@ -5,14 +5,14 @@ This project implements a complete evaluation pipeline for Large Language Models
 
 ## Key Features
 
-- 🔹 Prompt → Response generation using Ollama (local LLM)
-- 🔹 Rubric-based evaluation:
+- Prompt → Response generation using Ollama (local LLM)
+- Rubric-based evaluation:
   - Accuracy
   - Relevance
   - Clarity
-- 🔹 Automated scoring system
-- 🔹 Structured outputs (JSON + CSV)
-- 🔹 Performance analysis & failure detection
+- Automated scoring system
+- Structured outputs (JSON + CSV)
+- Performance analysis & failure detection
 
 ## Tech Stack
 
