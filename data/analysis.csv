@@ -1,0 +1,4 @@
+id,prompt,accuracy,relevance,clarity,total,label
+1,Explain photosynthesis simply,0,1,0,1,bad
+2,What is 5 + 7?,1,1,1,3,good
+3,What is AI?,0,1,0,1,bad

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain photosynthesis simply",
+    "reference": "Plants use sunlight to make food."
+  },
+  {
+    "id": 2,
+    "prompt": "What is 5 + 7?",
+    "reference": "12"
+  },
+  {
+    "id": 3,
+    "prompt": "What is AI?",
+    "reference": "AI is the simulation of human intelligence in machines."
+  }
+]
